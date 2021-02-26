@@ -1,2 +1,2 @@
-# sql-scripts
+# scripts.sql
 Handy sql scripts
